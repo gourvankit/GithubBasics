@@ -14,7 +14,7 @@ function Home() {
         count: '2'
       },
       headers: {
-        'X-RapidAPI-Key': 'ca5b2f5121mshbb12f717cc17beap1d35fdjsn76b2cf09fead',
+        'X-RapidAPI-Key': 'enter api key here',
         'X-RapidAPI-Host': 'famous-quotes4.p.rapidapi.com'
       }
     };
