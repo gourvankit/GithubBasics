@@ -23,6 +23,8 @@ function Home() {
       const response = await axios.request(options);
       const randomQuote = response.data[0].text; // Assuming response.data is an array of quotes
       console.log(response);
+      console.log(response);
+      console.log(response);
       setQuote(randomQuote);
     } catch (error) {
       console.error(error);
