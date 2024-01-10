@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>Basic React App</h1>
       <div>Learn Git</div>
+      <div>Learn the advanced features</div>
     </div>
   );
 }
